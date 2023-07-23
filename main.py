@@ -18,5 +18,5 @@ print(x>10 and x!=100)
 
 
 
-pass
+
 print(not(x==10 and x>=100))
